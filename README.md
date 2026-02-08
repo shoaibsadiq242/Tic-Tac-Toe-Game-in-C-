@@ -10,8 +10,4 @@ A simple console-based Tic-Tac-Toe game in C++ for two players. Players take tur
 - Detects wins and draws
 - Option to play again
 
-## How to Run
 
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
